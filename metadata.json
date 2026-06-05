@@ -1,0 +1,6 @@
+{
+  "name": "Ceksek",
+  "description": "Campus marketplace with 7-day warranty escrow for safe student commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
